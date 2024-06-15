@@ -3,7 +3,7 @@
 ---
 **Author** : Cheolmin Jeong
 
-**Affiliation** : UNICON LAB (Inchoen National University, South Korea)
+**Affiliation** : UNICON LAB (Incheon National University, South Korea)
 
 **Position** : Ph.D. student
 
