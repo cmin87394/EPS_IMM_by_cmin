@@ -12,9 +12,9 @@
 ---
 **Description**
 
-  Simple IMM(Interacting Multiple Model) code.
+  * Simple IMM(Interacting Multiple Model) code.
   
-  Please run 'EPS_IMM_main.m'.
+  * Please run 'EPS_IMM_main.m'.
 
 ---
 **Reference URL**
