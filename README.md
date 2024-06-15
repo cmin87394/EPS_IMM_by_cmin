@@ -1,13 +1,13 @@
-## Interacting Multiple Model Using Electric Power Steering System
+# Interacting Multiple Model for Electric Power Steering System
 
 ---
-Author : Cheolmin Jeong
+**Author** : Cheolmin Jeong
 
-Affiliation : UNICON LAB (Inchoen National University, South Korea)
+**Affiliation** : UNICON LAB (Inchoen National University, South Korea)
 
-Position : Ph.D. student
+**Position** : Ph.D. student
 
-E-mail : cmin87394@gmail.com
+**E-mail** : cmin87394@gmail.com
 
 ---
 **Description**
