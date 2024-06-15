@@ -11,6 +11,7 @@ E-mail : cmin87394@gmail.com
 
 ---
 Description : Simple IMM(Interacting Multiple Model) code.
+
               Please run 'EPS_IMM_main.m'.
 
 ---
