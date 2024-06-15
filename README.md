@@ -1,4 +1,4 @@
-# Interacting Multiple Model for Electric Power Steering System
+## Interacting Multiple Model for Electric Power Steering System
 
 ---
 **Author** : Cheolmin Jeong
